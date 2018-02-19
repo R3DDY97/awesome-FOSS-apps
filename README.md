@@ -180,6 +180,8 @@
 ## Finance
 
   * [Bitcoin Wallet](https://wallet.schildbach.de/) - Bitcoin Wallet. ([F-Droid](https://f-droid.org/packages/de.schildbach.wallet/), [Source Code](https://github.com/bitcoin-wallet/bitcoin-wallet))
+  
+  * Loyalty Card Keychain - Manage loyalty cards. ([F-Droid](https://f-droid.org/repository/browse/?fdid=protect.card_locker), [Source Code](https://github.com/brarcher/loyalty-card-locker))
 
   * [My Expenses](http://www.myexpenses.mobi/) - Finance manager. ([F-Droid](https://f-droid.org/packages/org.totschnig.myexpenses/), [Source Code](https://github.com/mtotschnig/MyExpenses))
 
