@@ -237,7 +237,7 @@
 
   * A Photo Manager - Manage local photos: Find/Copy/Edit-Exif and show in Gallery or Map. ([F-Droid](https://f-droid.org/packages/de.k3b.android.androFotoFinder/), [Source Code](https://github.com/k3b/APhotoManager))
 
-  * Camera Roll - Simple Gallery App for Android, with lovely Material Design. ([APK](https://github.com/kollerlukas/Camera-Roll-Android-App/releases), [Source Code](https://github.com/kollerlukas/Camera-Roll-Android-App))
+  * Camera Roll - Simple Gallery App for Android, with lovely Material Design. ([F-Droid](https://f-droid.org/en/packages/us.koller.cameraroll/), [APK](https://github.com/kollerlukas/Camera-Roll-Android-App/releases), [Source Code](https://github.com/kollerlukas/Camera-Roll-Android-App))
 
   * [Simple Gallery](https://simplemobiletools.github.io/) - A gallery for viewing photos and videos without ads. ([F-Droid](https://f-droid.org/app/com.simplemobiletools.gallery), [Source Code](https://github.com/SimpleMobileTools/Simple-Gallery))
 
@@ -417,7 +417,7 @@
 
   * [AndStatus](http://andstatus.org/) - Low traffic social network client. ([F-Droid](https://f-droid.org/packages/org.andstatus.app/), [Source Code](https://github.com/andstatus/andstatus))
 
-  * [dandelion*](https://diasp.org/people/48b78420923501341ef3782bcb452bd5) - Client for dandelion*. ([F-Droid](https://f-droid.org/packages/com.github.dfa.diaspora_android/), [Source Code](https://github.com/Diaspora-for-Android/dandelion))
+  * [dandelion*](https://diasp.org/people/48b78420923501341ef3782bcb452bd5) - Client for diaspora*. ([F-Droid](https://f-droid.org/packages/com.github.dfa.diaspora_android/), [Source Code](https://github.com/Diaspora-for-Android/dandelion))
 
   * Twidere - Microblogging / twitter.com client. ([F-Droid](https://f-droid.org/packages/org.mariotaku.twidere/), [Source Code](https://github.com/TwidereProject/Twidere-Android))
 
