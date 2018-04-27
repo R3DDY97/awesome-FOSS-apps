@@ -37,6 +37,7 @@
     - [VPN](#vpn)
   - [News](#news)
     - [RSS](#rss)
+    - [Read it later](#read-it-later)
   - [Organizing](#organizing)
     - [Calendar](#calendar)
       - [Offline](#offline)
@@ -306,6 +307,11 @@
   * Feeder - RSS reader - works good with NewPipe, can import .opml files. ([F-Droid](https://f-droid.org/packages/com.nononsenseapps.feeder/), [Source Code](https://gitlab.com/spacecowboy/Feeder))
 
   * spaRSS - Feed reader. ([F-Droid](https://f-droid.org/packages/net.etuldan.sparss.floss/), [Source Code](https://github.com/Etuldan/spaRSS))
+
+
+### Read it later
+
+  * [wallabag](https://wallabag.org/en#applications) - Read it later app as client for [wallabag](https://wallabag.org). ([F-Droid](https://f-droid.org/packages/fr.gaulupeau.apps.InThePoche/), [Source Code](https://github.com/wallabag/android-app))
 
 
 
