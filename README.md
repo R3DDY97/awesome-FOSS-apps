@@ -208,7 +208,7 @@
 
 ### Audiobooks
 
-  * Material Player - Material design based audio book player. ([F-Droid](https://f-droid.org/packages/de.ph1b.audiobook/), [Source Code](https://github.com/PaulWoitaschek/Voice))
+  * Voice - Minimalist audio book player. ([F-Droid](https://f-droid.org/packages/de.ph1b.audiobook/), [Source Code](https://github.com/PaulWoitaschek/Voice))
 
 
 
