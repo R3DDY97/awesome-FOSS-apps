@@ -24,10 +24,10 @@
     - [Maps](#maps)
     - [Public transportation](#public-transportation)
   - [Media](#media)
-    - [Audio-/Videoplayer](#audio-videoplayer)
+    - [Audio / Videoplayer](#audio--videoplayer)
     - [Audiobooks](#audiobooks)
     - [Camera](#camera)
-    - [Comics](#comics)
+    - [Comics / Manga](#comics--manga)
     - [Games](#games)
     - [Photos](#photos)
     - [Podcasts](#podcasts)
@@ -106,7 +106,7 @@
 
   * [Wire](https://wire.com/) - End-to-End encrypted messenger, doesn't need a phone number. ([non-free APK](https://wire.com/en/download/), [Source Code](https://github.com/wireapp/wire-android))
 
-  
+
 
 ## Connectivity
 
@@ -168,7 +168,7 @@
 
   * primitive ftpd - A simple FTP and SFTP (SSH file transfer) server.([F-Droid](https://f-droid.org/packages/org.primftpd/), [Source Code](https://github.com/wolpi/prim-ftpd))
 
-  
+
 
 ### Storage Tools
 
@@ -181,7 +181,7 @@
 ## Finance
 
   * [Bitcoin Wallet](https://wallet.schildbach.de/) - Bitcoin Wallet. ([F-Droid](https://f-droid.org/packages/de.schildbach.wallet/), [Source Code](https://github.com/bitcoin-wallet/bitcoin-wallet))
-  
+
   * Loyalty Card Keychain - Manage loyalty cards. ([F-Droid](https://f-droid.org/repository/browse/?fdid=protect.card_locker), [Source Code](https://github.com/brarcher/loyalty-card-locker))
 
   * [My Expenses](http://www.myexpenses.mobi/) - Finance manager. ([F-Droid](https://f-droid.org/packages/org.totschnig.myexpenses/), [Source Code](https://github.com/mtotschnig/MyExpenses))
@@ -196,7 +196,7 @@
 
 
 
-### Audio-/Videoplayer
+### Audio / Videoplayer
 
   * [Simple Music Player](https://simplemobiletools.github.io/) - A clean music player with a customizable widget. ([F-Droid](https://f-droid.org/app/com.simplemobiletools.musicplayer), [Source Code](https://github.com/SimpleMobileTools/Simple-Music-Player))
 
@@ -218,9 +218,11 @@
 
 
 
-### Comics
+### Comics / Manga
 
   * Easy xkcd - xkcd reader. ([F-Droid](https://f-droid.org/packages/de.tap.easy_xkcd/), [Source Code](https://github.com/T-Rex96/Easy_xkcd))
+
+  * Tachiyomi - local & online manga reader, has [extensions](https://github.com/inorichi/tachiyomi-extensions). ([F-Droid](https://f-droid.org/en/packages/eu.kanade.tachiyomi/), [Source Code](https://github.com/inorichi/tachiyomi))
 
 
 
@@ -270,7 +272,7 @@
 
   * [OsmAnd~](http://osmand.net/) - OpenStreetMap client. ([F-Droid](https://f-droid.org/packages/net.osmand.plus/), [Source Code](https://github.com/osmandapp/Osmand))
 
-  
+
 
 ### Public transportation
 
@@ -427,7 +429,7 @@
 
   * Twidere - Microblogging / twitter.com client. ([F-Droid](https://f-droid.org/packages/org.mariotaku.twidere/), [Source Code](https://github.com/TwidereProject/Twidere-Android))
 
-  
+
 
 ### Facebook
 
@@ -504,5 +506,3 @@
 ## Credits
 
 Inspired by other [awesome lists](https://github.com/sindresorhus/awesome).
-
-
