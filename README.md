@@ -94,7 +94,7 @@
 
 ### Instant Messaging
 
-  * [Conversations](https://conversations.im/) - XMPP client with built-in OMEMO, OTR and OpenPGP support. ([F-Droid](https://f-droid.org/packages/eu.siacs.conversations/), [Source Code](https://github.com/siacs/Conversations))
+  * [Conversations](https://conversations.im/) - XMPP client with built-in OMEMO and OpenPGP support. ([F-Droid](https://f-droid.org/packages/eu.siacs.conversations/), [Source Code](https://github.com/siacs/Conversations))
 
   * [Riot](https://riot.im/) - Messenger using the Matrix protocol. ([F-Droid](https://f-droid.org/packages/im.vector.alpha/), [Source Code](https://github.com/vector-im/riot-android))
 
@@ -203,6 +203,8 @@
   * [Vanilla Music](http://vanillamusic.io/) - Material Design music player, addons available. ([F-Droid](https://f-droid.org/packages/ch.blinkenlights.android.vanilla/), [Source Code](https://github.com/vanilla-music/vanilla))
 
   * [VLC](https://www.videolan.org/vlc/download-android.html) - VLC media player. (Available in the F-Droid archive, [APK](https://get.videolan.org/vlc-android/2.0.6/),  [Source Code](https://code.videolan.org/videolan/vlc-android))
+  
+  * [Vinyl Music Player](https://adrien.poupa.fr/) - Light and slick material design music player. ([F-Droid](https://f-droid.org/packages/com.poupa.vinylmusicplayer/),  [Source Code](https://github.com/AdrienPoupa/VinylMusicPl))
 
 
 
